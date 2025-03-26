@@ -3,8 +3,8 @@
     "thread": "200",
 
     "webhook": {
-        "url": "https://discord.com/api/webhooks/0000000000000000000/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "username": "Nitro Hits",
+        "url": "https://discord.com/api/webhooks/1354491229374644336/tSyYklF3iRNRWcI2oo7Uzg8GRzyMbUxZUI81kK4l39PilKsWs1mHc0128rbMxHU-wR0l",
+        "username": "Nitro Generator",
         "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
     }
 }
